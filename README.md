@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manuel Nogales Serrano
-- 🌱 I’m currently learning web development in Ilerna Sevilla
+- 🌱 I’m currently full stack developer especilized in Big Data and IA
 - 📫 You can reach me here: manuelnogalesserrano5221@gmail.com
 - 🌐 [Check my CV and projects here](https://m-nogales.vercel.app)
 <!---
